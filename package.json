@@ -1,7 +1,11 @@
 {
-  "name": "H.A.Lifeline",
+  "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "H.A.Lifeline",
+  "engines": {
+    "node": "14.x",
+    "npm": "6.x"
+  },
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
