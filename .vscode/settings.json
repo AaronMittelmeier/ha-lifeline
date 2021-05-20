@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e861909a-dafa-4866-950d-5c98fc67887f/resourceGroups/HA/providers/Microsoft.Web/sites/ha-lifeline",
+    "appService.deploySubpath": "."
+}
